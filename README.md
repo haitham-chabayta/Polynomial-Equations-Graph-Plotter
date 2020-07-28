@@ -1,5 +1,7 @@
 # React application that plots polynomial functions using d3 js library
 
+# Hosted at : https://master.d2r7fs8fky214e.amplifyapp.com/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
