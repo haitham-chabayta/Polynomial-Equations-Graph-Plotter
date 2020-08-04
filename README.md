@@ -127,7 +127,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Haitham Chabayta - [@your_twitter](https://twitter.com/your_username) - haithamchabayta@gmail.com
+Haitham Chabayta - haithamchabayta@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
 
