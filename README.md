@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 Graph plotter is a react.js application that allows users to draw the graph of polynomial equations, up to 6 degrees, by just inputing the slope, y-intercept and the exponent of X. The application is embedded with D3.js library to plot the axes and the line graph.
 
@@ -157,4 +157,4 @@ LinkedIn: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
 [issues-url]: https://github.com/haitham-chabayta/Polynomial-Equations-Graph-Plotter/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.PNG
