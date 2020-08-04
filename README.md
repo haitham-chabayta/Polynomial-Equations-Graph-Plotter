@@ -66,7 +66,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 * [React.js](https://reactjs.org/)
 * [D3.js](https://d3js.org/)
 
-## Getting  Started
+## Getting Started
 
 
 ### Prerequisites
