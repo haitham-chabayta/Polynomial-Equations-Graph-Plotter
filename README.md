@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/haitham-chabayta/Polynomial-Equations-Graph-Plotter">
      <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ </a>
 
   <h3 align="center">Graph plotter</h3>
 
