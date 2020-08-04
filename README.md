@@ -89,14 +89,14 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Prerequisites
 
-*Node
+*Node <br/>
 Check if you have node using:
 ```sh
 node --version
 ```
 If not install node from https://nodejs.org/en/
 
-*Git 
+*Git  <br/>
 Check if you have Git using:
 ```sh
 npm --version
@@ -147,9 +147,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Haitham Chabayta - [@your_twitter](https://twitter.com/your_username) - haithamchabayta@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+LinkedIn: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
 
 
 
