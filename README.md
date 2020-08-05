@@ -68,7 +68,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 * [D3.js](https://d3js.org/)
 
 ## Getting Started
-
+Here is the list of the prerequisites you need and how to install the web application.
 
 ### Prerequisites
 
