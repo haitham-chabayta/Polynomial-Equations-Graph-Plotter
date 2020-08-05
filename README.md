@@ -82,13 +82,13 @@ If not install node from https://nodejs.org/en/
 ```sh
 npm --version
 ```
-If not install node from https://git-scm.com/downloads
+If not install git from https://git-scm.com/downloads
 
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/haitham-chabayta/Polynomial-Equations-Graph-Plotter.git
 ```
 2. Install NPM packages
 ```sh
